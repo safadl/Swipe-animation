@@ -1,6 +1,6 @@
 ### Demo
 
-How to run
+## How to run
 
 Run this commands:
 
